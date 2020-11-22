@@ -4,7 +4,7 @@ import java.io.IOException;
 public class gcpConnect{
 
     public gcpConnect() throws IOException {
-        String connectCMDs [] = {"sh", "-T","/Users/adamnash/topNProj/topNProj/src/topNScript.sh"};
+        String connectCMDs [] = {"sh", "-T","/Users/adamnash/WordCountProj/src/gcpConnect.sh"};
         // Process p1 = Runtime.getRuntime().exec(connectCMDs);
         ProcessBuilder pb = new ProcessBuilder(connectCMDs);
         //pb.inheritIO();
