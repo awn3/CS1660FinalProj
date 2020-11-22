@@ -12,7 +12,7 @@ https://hub.docker.com/r/awn3/projimage4/tags
 Branches:
     1. GUI files in main branch
     2. TopN files in TopN branch
-    3. Term Search is in Term Search branch
+    3. Term Search is in wordSearch branch
 
 
 Steps to run on a different computer:
