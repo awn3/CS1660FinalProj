@@ -9,6 +9,12 @@ https://pitt-my.sharepoint.com/:v:/g/personal/awn10_pitt_edu/EcTZ-_rz_ZVNpYvwa9Z
 Docker Image:
 https://hub.docker.com/r/awn3/projimage4/tags
 
+Branches:
+    1. GUI files in main branch
+    2. TopN files in TopN branch
+    3. Term Search is in Term Search branch
+
+
 Steps to run on a different computer:
 
 1. Download docker image. 
