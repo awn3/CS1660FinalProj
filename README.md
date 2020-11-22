@@ -1,7 +1,9 @@
 # CS1660FinalProj
 Mapreduce. Inverted Index
-Link to Demo & Code walk-through
+
+Link to Demo & Code walk-through: 
 https://pitt-my.sharepoint.com/:v:/g/personal/awn10_pitt_edu/EcTZ-_rz_ZVNpYvwa9ZpPkkB-7hJ6obJ3mSiv6EjmVY0Hg
+
 (this is a public link that anyone with a Pitt account can view. I have also added Dr. Farag individually to the permissions)
 
 Docker Image:
